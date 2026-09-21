@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "patients": [
+    {
+      "id": "PT-1042",
+      "name": "Asha Mehta",
+      "scope": "clinician-demo"
+    },
+    {
+      "id": "PT-2088",
+      "name": "Daniel Brooks",
+      "scope": "clinician-demo"
+    }
+  ]
+}

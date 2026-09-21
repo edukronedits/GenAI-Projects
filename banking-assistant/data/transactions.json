@@ -1,0 +1,17 @@
+{
+  "synthetic": true,
+  "transactions": [
+    {
+      "id": "TX-77102",
+      "merchant": "Northline Electronics",
+      "amount": 12500,
+      "currency": "INR"
+    },
+    {
+      "id": "TX-77091",
+      "merchant": "Metro Grocers",
+      "amount": 2480,
+      "currency": "INR"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "synthetic": true,
+  "products": [
+    {
+      "id": "shoe-101",
+      "name": "Stride Aero Run",
+      "price": 4299,
+      "category": "Running shoes"
+    },
+    {
+      "id": "laptop-301",
+      "name": "Orbit Pro 14",
+      "price": 74990,
+      "category": "Laptops"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "project": "banking-assistant",
+  "synthetic": true,
+  "document_count": 100,
+  "documents": [
+    {
+      "document_id": "BNK-0001",
+      "title": "Minimum balance policy",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0001.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0002",
+      "title": "Card dispute workflow",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0002.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0003",
+      "title": "Lost card procedure",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0003.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0004",
+      "title": "Loan document checklist",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0004.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0005",
+      "title": "Transaction monitoring",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0005.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0006",
+      "title": "Account servicing",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0006.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0007",
+      "title": "Minimum balance policy",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0007.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0008",
+      "title": "Card dispute workflow",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0008.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0009",
+      "title": "Lost card procedure",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0009.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0010",
+      "title": "Loan document checklist",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0010.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0011",
+      "title": "Transaction monitoring",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0011.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0012",
+      "title": "Account servicing",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0012.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0013",
+      "title": "Minimum balance policy",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0013.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0014",
+      "title": "Card dispute workflow",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0014.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0015",
+      "title": "Lost card procedure",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0015.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0016",
+      "title": "Loan document checklist",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0016.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0017",
+      "title": "Transaction monitoring",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0017.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0018",
+      "title": "Account servicing",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0018.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0019",
+      "title": "Minimum balance policy",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0019.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0020",
+      "title": "Card dispute workflow",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0020.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0021",
+      "title": "Lost card procedure",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0021.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0022",
+      "title": "Loan document checklist",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0022.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0023",
+      "title": "Transaction monitoring",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0023.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0024",
+      "title": "Account servicing",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0024.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0025",
+      "title": "Minimum balance policy",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0025.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0026",
+      "title": "Card dispute workflow",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0026.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0027",
+      "title": "Lost card procedure",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0027.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0028",
+      "title": "Loan document checklist",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0028.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0029",
+      "title": "Transaction monitoring",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0029.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0030",
+      "title": "Account servicing",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0030.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0031",
+      "title": "Minimum balance policy",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0031.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0032",
+      "title": "Card dispute workflow",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0032.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0033",
+      "title": "Lost card procedure",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0033.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0034",
+      "title": "Loan document checklist",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0034.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0035",
+      "title": "Transaction monitoring",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0035.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0036",
+      "title": "Account servicing",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0036.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0037",
+      "title": "Minimum balance policy",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0037.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0038",
+      "title": "Card dispute workflow",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0038.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0039",
+      "title": "Lost card procedure",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0039.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0040",
+      "title": "Loan document checklist",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0040.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0041",
+      "title": "Transaction monitoring",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0041.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0042",
+      "title": "Account servicing",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0042.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0043",
+      "title": "Minimum balance policy",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0043.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0044",
+      "title": "Card dispute workflow",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0044.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0045",
+      "title": "Lost card procedure",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0045.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0046",
+      "title": "Loan document checklist",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0046.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0047",
+      "title": "Transaction monitoring",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0047.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0048",
+      "title": "Account servicing",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0048.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0049",
+      "title": "Minimum balance policy",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0049.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0050",
+      "title": "Card dispute workflow",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0050.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0051",
+      "title": "Lost card procedure",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0051.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0052",
+      "title": "Loan document checklist",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0052.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0053",
+      "title": "Transaction monitoring",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0053.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0054",
+      "title": "Account servicing",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0054.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0055",
+      "title": "Minimum balance policy",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0055.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0056",
+      "title": "Card dispute workflow",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0056.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0057",
+      "title": "Lost card procedure",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0057.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0058",
+      "title": "Loan document checklist",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0058.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0059",
+      "title": "Transaction monitoring",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0059.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0060",
+      "title": "Account servicing",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0060.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0061",
+      "title": "Minimum balance policy",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0061.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0062",
+      "title": "Card dispute workflow",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0062.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0063",
+      "title": "Lost card procedure",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0063.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0064",
+      "title": "Loan document checklist",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0064.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0065",
+      "title": "Transaction monitoring",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0065.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0066",
+      "title": "Account servicing",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0066.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0067",
+      "title": "Minimum balance policy",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0067.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0068",
+      "title": "Card dispute workflow",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0068.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0069",
+      "title": "Lost card procedure",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0069.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0070",
+      "title": "Loan document checklist",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0070.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0071",
+      "title": "Transaction monitoring",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0071.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0072",
+      "title": "Account servicing",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0072.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0073",
+      "title": "Minimum balance policy",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0073.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0074",
+      "title": "Card dispute workflow",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0074.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0075",
+      "title": "Lost card procedure",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0075.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0076",
+      "title": "Loan document checklist",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0076.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0077",
+      "title": "Transaction monitoring",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0077.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0078",
+      "title": "Account servicing",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0078.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0079",
+      "title": "Minimum balance policy",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0079.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0080",
+      "title": "Card dispute workflow",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0080.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0081",
+      "title": "Lost card procedure",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0081.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0082",
+      "title": "Loan document checklist",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0082.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0083",
+      "title": "Transaction monitoring",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0083.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0084",
+      "title": "Account servicing",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0084.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0085",
+      "title": "Minimum balance policy",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0085.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0086",
+      "title": "Card dispute workflow",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0086.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0087",
+      "title": "Lost card procedure",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0087.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0088",
+      "title": "Loan document checklist",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0088.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0089",
+      "title": "Transaction monitoring",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0089.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0090",
+      "title": "Account servicing",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0090.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0091",
+      "title": "Minimum balance policy",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0091.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0092",
+      "title": "Card dispute workflow",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0092.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0093",
+      "title": "Lost card procedure",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0093.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0094",
+      "title": "Loan document checklist",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0094.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0095",
+      "title": "Transaction monitoring",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0095.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0096",
+      "title": "Account servicing",
+      "document_type": "policy",
+      "path": "data/banking-documents/bnk-0096.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0097",
+      "title": "Minimum balance policy",
+      "document_type": "product",
+      "path": "data/banking-documents/bnk-0097.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0098",
+      "title": "Card dispute workflow",
+      "document_type": "faq",
+      "path": "data/banking-documents/bnk-0098.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0099",
+      "title": "Lost card procedure",
+      "document_type": "transaction-rule",
+      "path": "data/banking-documents/bnk-0099.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "BNK-0100",
+      "title": "Loan document checklist",
+      "document_type": "service-workflow",
+      "path": "data/banking-documents/bnk-0100.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    }
+  ]
+}

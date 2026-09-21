@@ -1,0 +1,807 @@
+{
+  "project": "healthcare-copilot",
+  "synthetic": true,
+  "document_count": 100,
+  "documents": [
+    {
+      "document_id": "CLN-0001",
+      "title": "Diabetes follow-up",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0001.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0002",
+      "title": "HbA1c trend review",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0002.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0003",
+      "title": "Medication reconciliation",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0003.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0004",
+      "title": "Inpatient glycemic management",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0004.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0005",
+      "title": "Discharge planning",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0005.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0006",
+      "title": "Blood pressure protocol",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0006.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0007",
+      "title": "Diabetes follow-up",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0007.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0008",
+      "title": "HbA1c trend review",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0008.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0009",
+      "title": "Medication reconciliation",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0009.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0010",
+      "title": "Inpatient glycemic management",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0010.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0011",
+      "title": "Discharge planning",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0011.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0012",
+      "title": "Blood pressure protocol",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0012.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0013",
+      "title": "Diabetes follow-up",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0013.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0014",
+      "title": "HbA1c trend review",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0014.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0015",
+      "title": "Medication reconciliation",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0015.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0016",
+      "title": "Inpatient glycemic management",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0016.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0017",
+      "title": "Discharge planning",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0017.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0018",
+      "title": "Blood pressure protocol",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0018.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0019",
+      "title": "Diabetes follow-up",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0019.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0020",
+      "title": "HbA1c trend review",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0020.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0021",
+      "title": "Medication reconciliation",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0021.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0022",
+      "title": "Inpatient glycemic management",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0022.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0023",
+      "title": "Discharge planning",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0023.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0024",
+      "title": "Blood pressure protocol",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0024.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0025",
+      "title": "Diabetes follow-up",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0025.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0026",
+      "title": "HbA1c trend review",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0026.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0027",
+      "title": "Medication reconciliation",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0027.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0028",
+      "title": "Inpatient glycemic management",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0028.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0029",
+      "title": "Discharge planning",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0029.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0030",
+      "title": "Blood pressure protocol",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0030.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0031",
+      "title": "Diabetes follow-up",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0031.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0032",
+      "title": "HbA1c trend review",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0032.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0033",
+      "title": "Medication reconciliation",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0033.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0034",
+      "title": "Inpatient glycemic management",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0034.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0035",
+      "title": "Discharge planning",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0035.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0036",
+      "title": "Blood pressure protocol",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0036.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0037",
+      "title": "Diabetes follow-up",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0037.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0038",
+      "title": "HbA1c trend review",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0038.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0039",
+      "title": "Medication reconciliation",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0039.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0040",
+      "title": "Inpatient glycemic management",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0040.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0041",
+      "title": "Discharge planning",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0041.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0042",
+      "title": "Blood pressure protocol",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0042.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0043",
+      "title": "Diabetes follow-up",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0043.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0044",
+      "title": "HbA1c trend review",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0044.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0045",
+      "title": "Medication reconciliation",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0045.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0046",
+      "title": "Inpatient glycemic management",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0046.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0047",
+      "title": "Discharge planning",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0047.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0048",
+      "title": "Blood pressure protocol",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0048.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0049",
+      "title": "Diabetes follow-up",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0049.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0050",
+      "title": "HbA1c trend review",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0050.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0051",
+      "title": "Medication reconciliation",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0051.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0052",
+      "title": "Inpatient glycemic management",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0052.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0053",
+      "title": "Discharge planning",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0053.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0054",
+      "title": "Blood pressure protocol",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0054.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0055",
+      "title": "Diabetes follow-up",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0055.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0056",
+      "title": "HbA1c trend review",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0056.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0057",
+      "title": "Medication reconciliation",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0057.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0058",
+      "title": "Inpatient glycemic management",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0058.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0059",
+      "title": "Discharge planning",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0059.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0060",
+      "title": "Blood pressure protocol",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0060.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0061",
+      "title": "Diabetes follow-up",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0061.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0062",
+      "title": "HbA1c trend review",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0062.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0063",
+      "title": "Medication reconciliation",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0063.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0064",
+      "title": "Inpatient glycemic management",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0064.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0065",
+      "title": "Discharge planning",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0065.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0066",
+      "title": "Blood pressure protocol",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0066.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0067",
+      "title": "Diabetes follow-up",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0067.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0068",
+      "title": "HbA1c trend review",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0068.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0069",
+      "title": "Medication reconciliation",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0069.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0070",
+      "title": "Inpatient glycemic management",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0070.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0071",
+      "title": "Discharge planning",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0071.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0072",
+      "title": "Blood pressure protocol",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0072.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0073",
+      "title": "Diabetes follow-up",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0073.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0074",
+      "title": "HbA1c trend review",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0074.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0075",
+      "title": "Medication reconciliation",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0075.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0076",
+      "title": "Inpatient glycemic management",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0076.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0077",
+      "title": "Discharge planning",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0077.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0078",
+      "title": "Blood pressure protocol",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0078.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0079",
+      "title": "Diabetes follow-up",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0079.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0080",
+      "title": "HbA1c trend review",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0080.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0081",
+      "title": "Medication reconciliation",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0081.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0082",
+      "title": "Inpatient glycemic management",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0082.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0083",
+      "title": "Discharge planning",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0083.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0084",
+      "title": "Blood pressure protocol",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0084.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0085",
+      "title": "Diabetes follow-up",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0085.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0086",
+      "title": "HbA1c trend review",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0086.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0087",
+      "title": "Medication reconciliation",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0087.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0088",
+      "title": "Inpatient glycemic management",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0088.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0089",
+      "title": "Discharge planning",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0089.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0090",
+      "title": "Blood pressure protocol",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0090.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0091",
+      "title": "Diabetes follow-up",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0091.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0092",
+      "title": "HbA1c trend review",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0092.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0093",
+      "title": "Medication reconciliation",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0093.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0094",
+      "title": "Inpatient glycemic management",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0094.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0095",
+      "title": "Discharge planning",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0095.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0096",
+      "title": "Blood pressure protocol",
+      "document_type": "clinical-note",
+      "path": "data/clinical-documents/cln-0096.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0097",
+      "title": "Diabetes follow-up",
+      "document_type": "lab-summary",
+      "path": "data/clinical-documents/cln-0097.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0098",
+      "title": "HbA1c trend review",
+      "document_type": "guideline",
+      "path": "data/clinical-documents/cln-0098.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0099",
+      "title": "Medication reconciliation",
+      "document_type": "protocol",
+      "path": "data/clinical-documents/cln-0099.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "CLN-0100",
+      "title": "Inpatient glycemic management",
+      "document_type": "medication",
+      "path": "data/clinical-documents/cln-0100.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    }
+  ]
+}

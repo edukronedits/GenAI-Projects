@@ -1,0 +1,807 @@
+{
+  "project": "retail-assistant",
+  "synthetic": true,
+  "document_count": 100,
+  "documents": [
+    {
+      "document_id": "RET-0001",
+      "title": "Stride Aero Run",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0001.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0002",
+      "title": "Orbit Pro 14",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0002.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0003",
+      "title": "Northstar Pace",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0003.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0004",
+      "title": "Orbit Studio 14",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0004.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0005",
+      "title": "Returns and refunds",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0005.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0006",
+      "title": "Warranty support",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0006.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0007",
+      "title": "Stride Aero Run",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0007.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0008",
+      "title": "Orbit Pro 14",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0008.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0009",
+      "title": "Northstar Pace",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0009.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0010",
+      "title": "Orbit Studio 14",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0010.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0011",
+      "title": "Returns and refunds",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0011.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0012",
+      "title": "Warranty support",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0012.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0013",
+      "title": "Stride Aero Run",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0013.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0014",
+      "title": "Orbit Pro 14",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0014.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0015",
+      "title": "Northstar Pace",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0015.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0016",
+      "title": "Orbit Studio 14",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0016.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0017",
+      "title": "Returns and refunds",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0017.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0018",
+      "title": "Warranty support",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0018.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0019",
+      "title": "Stride Aero Run",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0019.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0020",
+      "title": "Orbit Pro 14",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0020.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0021",
+      "title": "Northstar Pace",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0021.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0022",
+      "title": "Orbit Studio 14",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0022.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0023",
+      "title": "Returns and refunds",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0023.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0024",
+      "title": "Warranty support",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0024.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0025",
+      "title": "Stride Aero Run",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0025.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0026",
+      "title": "Orbit Pro 14",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0026.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0027",
+      "title": "Northstar Pace",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0027.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0028",
+      "title": "Orbit Studio 14",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0028.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0029",
+      "title": "Returns and refunds",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0029.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0030",
+      "title": "Warranty support",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0030.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0031",
+      "title": "Stride Aero Run",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0031.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0032",
+      "title": "Orbit Pro 14",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0032.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0033",
+      "title": "Northstar Pace",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0033.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0034",
+      "title": "Orbit Studio 14",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0034.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0035",
+      "title": "Returns and refunds",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0035.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0036",
+      "title": "Warranty support",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0036.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0037",
+      "title": "Stride Aero Run",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0037.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0038",
+      "title": "Orbit Pro 14",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0038.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0039",
+      "title": "Northstar Pace",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0039.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0040",
+      "title": "Orbit Studio 14",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0040.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0041",
+      "title": "Returns and refunds",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0041.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0042",
+      "title": "Warranty support",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0042.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0043",
+      "title": "Stride Aero Run",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0043.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0044",
+      "title": "Orbit Pro 14",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0044.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0045",
+      "title": "Northstar Pace",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0045.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0046",
+      "title": "Orbit Studio 14",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0046.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0047",
+      "title": "Returns and refunds",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0047.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0048",
+      "title": "Warranty support",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0048.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0049",
+      "title": "Stride Aero Run",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0049.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0050",
+      "title": "Orbit Pro 14",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0050.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0051",
+      "title": "Northstar Pace",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0051.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0052",
+      "title": "Orbit Studio 14",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0052.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0053",
+      "title": "Returns and refunds",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0053.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0054",
+      "title": "Warranty support",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0054.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0055",
+      "title": "Stride Aero Run",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0055.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0056",
+      "title": "Orbit Pro 14",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0056.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0057",
+      "title": "Northstar Pace",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0057.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0058",
+      "title": "Orbit Studio 14",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0058.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0059",
+      "title": "Returns and refunds",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0059.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0060",
+      "title": "Warranty support",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0060.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0061",
+      "title": "Stride Aero Run",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0061.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0062",
+      "title": "Orbit Pro 14",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0062.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0063",
+      "title": "Northstar Pace",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0063.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0064",
+      "title": "Orbit Studio 14",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0064.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0065",
+      "title": "Returns and refunds",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0065.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0066",
+      "title": "Warranty support",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0066.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0067",
+      "title": "Stride Aero Run",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0067.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0068",
+      "title": "Orbit Pro 14",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0068.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0069",
+      "title": "Northstar Pace",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0069.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0070",
+      "title": "Orbit Studio 14",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0070.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0071",
+      "title": "Returns and refunds",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0071.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0072",
+      "title": "Warranty support",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0072.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0073",
+      "title": "Stride Aero Run",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0073.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0074",
+      "title": "Orbit Pro 14",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0074.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0075",
+      "title": "Northstar Pace",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0075.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0076",
+      "title": "Orbit Studio 14",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0076.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0077",
+      "title": "Returns and refunds",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0077.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0078",
+      "title": "Warranty support",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0078.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0079",
+      "title": "Stride Aero Run",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0079.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0080",
+      "title": "Orbit Pro 14",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0080.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0081",
+      "title": "Northstar Pace",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0081.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0082",
+      "title": "Orbit Studio 14",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0082.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0083",
+      "title": "Returns and refunds",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0083.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0084",
+      "title": "Warranty support",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0084.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0085",
+      "title": "Stride Aero Run",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0085.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0086",
+      "title": "Orbit Pro 14",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0086.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0087",
+      "title": "Northstar Pace",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0087.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0088",
+      "title": "Orbit Studio 14",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0088.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0089",
+      "title": "Returns and refunds",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0089.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0090",
+      "title": "Warranty support",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0090.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0091",
+      "title": "Stride Aero Run",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0091.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0092",
+      "title": "Orbit Pro 14",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0092.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0093",
+      "title": "Northstar Pace",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0093.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0094",
+      "title": "Orbit Studio 14",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0094.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0095",
+      "title": "Returns and refunds",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0095.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0096",
+      "title": "Warranty support",
+      "document_type": "product",
+      "path": "data/retail-documents/ret-0096.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0097",
+      "title": "Stride Aero Run",
+      "document_type": "manual",
+      "path": "data/retail-documents/ret-0097.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0098",
+      "title": "Orbit Pro 14",
+      "document_type": "policy",
+      "path": "data/retail-documents/ret-0098.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0099",
+      "title": "Northstar Pace",
+      "document_type": "review",
+      "path": "data/retail-documents/ret-0099.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    },
+    {
+      "document_id": "RET-0100",
+      "title": "Orbit Studio 14",
+      "document_type": "faq",
+      "path": "data/retail-documents/ret-0100.md",
+      "access_scope": "demo",
+      "status": "approved-for-development"
+    }
+  ]
+}

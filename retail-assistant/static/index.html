@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Retail Copilot</title><link rel="stylesheet" href="/static/style.css"></head>
+<body>
+<header><div class="brand"><span class="mark">R</span><div><strong>Retail Copilot</strong><small>Shopping, support, solved.</small></div></div><span class="status">● Knowledge base online</span></header>
+<main>
+<section class="intro"><p class="eyebrow">MULTIMODAL SHOPPING ASSISTANT</p><h1>Find the right product.<br><em>With evidence.</em></h1><p class="lede">Search the catalog, compare products, or upload a product photo. Every answer shows the knowledge sources behind it.</p></section>
+<section class="workspace">
+<div class="panel catalog"><div class="panel-head"><div><span class="eyebrow">CATALOG</span><h2>Explore products</h2></div><span id="count" class="count"></span></div><div class="search"><input id="query" placeholder="Try: black running shoe under 5000"><button id="searchBtn">Search</button></div><div id="products" class="products"></div><label class="upload"><input id="photo" type="file" accept="image/*"><span>＋ Upload a product photo</span><small>Vision matching, up to 8 MB</small></label></div>
+<div class="panel chat"><div class="panel-head"><div><span class="eyebrow">ASSISTANT</span><h2>Ask anything</h2></div><span class="live">LIVE</span></div><div id="messages" class="messages"><div class="message bot">Tell me what you’re shopping for, or ask about a return, warranty, or product issue.</div></div><div class="chips"><button>Compare the two laptops</button><button>Find shoes under ₹5,000</button></div><form id="chatForm" class="composer"><input id="message" placeholder="Ask about products or support..." required><button aria-label="Send">↗</button></form></div>
+</section>
+</main><script src="/static/app.js"></script></body></html>
